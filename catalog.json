@@ -1,0 +1,42 @@
+{
+  "repository": "pandaguy-12/henry-agent-skills",
+  "skill_count": 6,
+  "skills": [
+    {
+      "name": "approval-gated-external-actions",
+      "description": "Use before sending, publishing, charging, or changing live records.",
+      "version": "1.0.0",
+      "path": "skills/approval-gated-external-actions"
+    },
+    {
+      "name": "durable-task-handoffs",
+      "description": "Use when work must survive a chat or agent boundary.",
+      "version": "1.0.0",
+      "path": "skills/durable-task-handoffs"
+    },
+    {
+      "name": "evidence-first-operations",
+      "description": "Use when reporting whether operational work is truly done.",
+      "version": "1.0.0",
+      "path": "skills/evidence-first-operations"
+    },
+    {
+      "name": "production-release-verification",
+      "description": "Use when proving a release is live in production.",
+      "version": "1.0.0",
+      "path": "skills/production-release-verification"
+    },
+    {
+      "name": "public-skill-release-gate",
+      "description": "Use before publishing a private operating skill publicly.",
+      "version": "1.0.0",
+      "path": "skills/public-skill-release-gate"
+    },
+    {
+      "name": "recurring-job-safety",
+      "description": "Use when creating or operating scheduled agent jobs.",
+      "version": "1.0.0",
+      "path": "skills/recurring-job-safety"
+    }
+  ]
+}

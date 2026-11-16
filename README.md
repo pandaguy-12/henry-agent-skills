@@ -27,6 +27,8 @@ This is a small collection built from things that kept breaking and instructions
 - [`production-release-verification`](skills/production-release-verification/SKILL.md): Use when proving a release is live in production.
 - [`public-skill-release-gate`](skills/public-skill-release-gate/SKILL.md): Use before publishing a private operating skill publicly.
 - [`recurring-job-safety`](skills/recurring-job-safety/SKILL.md): Use when creating or operating scheduled agent jobs.
+- [`scoped-browser-operations`](skills/scoped-browser-operations/SKILL.md): Use when operating an authenticated web application safely.
+- [`source-linked-business-context`](skills/source-linked-business-context/SKILL.md): Use when turning business communications into durable context.
 <!-- CATALOG:END -->
 
 ## Using a skill

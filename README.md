@@ -29,6 +29,8 @@ This is a small collection built from things that kept breaking and instructions
 - [`recurring-job-safety`](skills/recurring-job-safety/SKILL.md): Use when creating or operating scheduled agent jobs.
 - [`scoped-browser-operations`](skills/scoped-browser-operations/SKILL.md): Use when operating an authenticated web application safely.
 - [`source-linked-business-context`](skills/source-linked-business-context/SKILL.md): Use when turning business communications into durable context.
+- [`verified-workspace-writes`](skills/verified-workspace-writes/SKILL.md): Use when writing durable files into a shared workspace.
+- [`weekly-workflow-learning`](skills/weekly-workflow-learning/SKILL.md): Use for a bounded weekly review of operational learning.
 <!-- CATALOG:END -->
 
 ## Using a skill

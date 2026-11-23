@@ -1,6 +1,6 @@
 {
   "repository": "pandaguy-12/henry-agent-skills",
-  "skill_count": 8,
+  "skill_count": 10,
   "skills": [
     {
       "name": "approval-gated-external-actions",
@@ -49,6 +49,18 @@
       "description": "Use when turning business communications into durable context.",
       "version": "1.0.0",
       "path": "skills/source-linked-business-context"
+    },
+    {
+      "name": "verified-workspace-writes",
+      "description": "Use when writing durable files into a shared workspace.",
+      "version": "1.0.0",
+      "path": "skills/verified-workspace-writes"
+    },
+    {
+      "name": "weekly-workflow-learning",
+      "description": "Use for a bounded weekly review of operational learning.",
+      "version": "1.0.0",
+      "path": "skills/weekly-workflow-learning"
     }
   ]
 }
